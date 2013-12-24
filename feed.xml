@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Dean Birkett</title>
+<subtitle type="text">deanbirkett.name</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2013-12-23T15:39:10+01:00</updated>
+<id>/</id>
+<author>
+  <name>Dean Birkett</name>
+  <uri>/</uri>
+  <email>dean@deanbirkett.name</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[The changing face of navigation]]></title>
+  <link rel="alternate" type="text/html" href="/articles/the-changing-face-of-navigation" />
+  <id>/articles/the-changing-face-of-navigation</id>
+  <published>2013-12-21T00:00:00+01:00</published>
+  <updated>2013-12-21T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;There seems to be an interesting pattern emerging as 2013 draws to a close, the acceptance of three lines (&lt;span class=&quot;icons&quot;&gt;☰&lt;/span&gt;) as a way to navigate not only on small screen devices, but as a way to signal primary navigation regardless of the screen that you are on.&lt;/p&gt;
+
+&lt;p&gt;I first noticed the introduction on &lt;a href=&quot;http://www.pinterest.com&quot;&gt;Pinterest&lt;/a&gt;, have seen this appear on &lt;a href=&quot;http://www.uber.com&quot;&gt;Uber&lt;/a&gt;, and now on &lt;a href=&quot;http://www.slate.com&quot;&gt;Slate&lt;/a&gt; since their September redesign.&lt;/p&gt;
+
+&lt;p&gt;Pinterest and Uber have implemented it in a &lt;i&gt;fairly&lt;/i&gt; familiar fashion. The top portion of the website still has a clear strip to separate from the content below, with the three lines being used to open up the various sections. Slate has the navigation in the top right, in a separate block, not too dissimilar to the regular content areas.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/122113_uber-and-pinterest.jpg&quot; alt=&quot;The navigation strips at the top of the Uber and Pinterest websites.&quot; /&gt;
+	&lt;figcaption&gt;Uber and Pinterest&#39;s navigation strip&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As a quick test I spoke with my father, a 76 year old, who despite his age is fairly technical. He uses Chrome as his browser, tweets, posts on Facebook, and owns both a laptop and an iPad. When I asked him about this new trend in navigation, he expressed some doubts.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Normal people’ will not understand to click on the three lines. People who use computers very rarely would not know what they indicated. They would just see what is on screen and would think that it is it. Three lines don’t represent anything at all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I fear he is right. At least for a portion of the online community this icon does not represent anything to them, and although it will become more familiar in time, we are at a time where relying purely on the icon alone is not wise.&lt;/p&gt;
+
+&lt;p&gt;Naturally over time, and if the trend continues more people will become accustomed to navigating desktop sites in this way, learning the pattern from mobile devices. That being said, this assumes that users will be familiar with mobile patterns - something that will pass by my feature-phone operating father.&lt;/p&gt;
+
+&lt;h3 id=&quot;slates-website&quot;&gt;Slate’s website&lt;/h3&gt;
+
+&lt;p&gt;Now I have no doubt that my father is not the target audience for Slate, but I fear that the icon is only one issue that users of Slate’s website will have. If you take a look at a page in greyscale then you can see the scale, layout and prominent calls to action first. &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/122113_slate.jpg&quot; alt=&quot;Slate website, in colour and in greyscale.&quot; /&gt;
+	&lt;figcaption&gt;Slate website, in colour and in greyscale&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It is known that there is power in using images of &lt;a href=&quot;http://www.uxmatters.com/mt/archives/2013/01/the-power-of-faces-in-user-experience.php&quot;&gt;people looking directly at you&lt;/a&gt; in UX, so this element will be one which immediately draws your attention. As the navigation block and call out to an article are the same colour, they are battling for attention. Adding in the images I fear this layout is going to cause confusion for a number of visitors.&lt;/p&gt;
+
+&lt;p&gt;An idea would have been to design in greyscale first, see whether the functionality of the site was optimised, and then start to introduce colour.&lt;/p&gt;
+
+&lt;p&gt;Despite the navigation block being &lt;i&gt;sticky&lt;/i&gt; as you scroll down the page, I don’t think the &lt;span class=&quot;icons&quot;&gt;☰&lt;/span&gt; is quite ready to sit there without supporting help text, something only &lt;a href=&quot;http://www.uber.com&quot;&gt;Uber&lt;/a&gt; did on the example sites I selected.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’d be very curious to see the analytics on usage before and after the redesign.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/the-changing-face-of-navigation&quot;&gt;The changing face of navigation&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on December 21, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Accessible design presentation]]></title>
+  <link rel="alternate" type="text/html" href="/articles/accessible-design-presentation" />
+  <id>/articles/accessible-design-presentation</id>
+  <published>2013-02-15T00:00:00+01:00</published>
+  <updated>2013-02-15T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;Today I will be giving my very first &lt;i&gt;proper&lt;/i&gt; presentation to an office full of colleagues. My colleagues aren’t scary - but the prospect of standing in front of them all, and trying to sell them something that I believe in certainly is!&lt;/p&gt;
+
+&lt;p&gt;I have called the presentation &lt;em&gt;Accessible Design&lt;/em&gt;, and it is inspired greatly by the &lt;a href=&quot;http://2012.inspireconf.com/?page=workshops&quot;&gt;Accessibility for UX Designers workshop&lt;/a&gt; that I attended after the &lt;i&gt;Ready to Inspire&lt;/i&gt; conference in Leiden was over. Searching for Universal design or Inclusive design will find you more reading material if you wish.&lt;/p&gt;
+
+&lt;p&gt;I decided to focus on a page from &lt;a href=&quot;http://pro.europeana.eu/web/guest/about/partners&quot;&gt;Europeana Professional&lt;/a&gt;, as my example. I could have focussed on accessible forms, accessible tables, or modal windows, but I thought that a map could be a fun challenge.&lt;/p&gt;
+
+&lt;p&gt;I stumbled a few times, I spent a lot of time on the &lt;a href=&quot;https://developers.google.com/maps/&quot;&gt;Google Maps API page&lt;/a&gt;, and I tried a few dead ends before a colleague suggested &lt;a href=&quot;http://leafletjs.com/&quot;&gt;Leaflet&lt;/a&gt; as a possible solution. I fiddled with that, adding geolocation, navigation (which was surprisingly not there by default), and a change to the markers, to get it looking a little how I wanted. I also put &lt;a href=&quot;http://www.waywayway.nl/handig-en-leuk/tutorials/responsive-google-maps-embeds/&quot;&gt;Fitmaps&lt;/a&gt; in place, which is a responsive map solution.&lt;/p&gt;
+
+&lt;p&gt;Using &lt;code&gt;em&lt;/code&gt;’s for everything, it meant that a visitor could zoom the content via their keyboard (CTRL and +), and the layout would not break. This would mean that if a high magnification level was needed, then this was possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;first-version&quot;&gt;First version&lt;/h3&gt;
+
+&lt;p&gt;The first version can be found here: &lt;a href=&quot;../playground/europeana/accessible_map/&quot;&gt;Accessible map: version one&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To be honest, I knew that I would be building this in stages, and I knew as I was putting this together that it would not tick every box. I wanted to do this so I could show in the presentation where the flaws were, and what elements may be overlooked.&lt;/p&gt;
+
+&lt;p&gt;In the presentation I highlighted a couple of key things.&lt;/p&gt;
+
+&lt;p&gt;This map is not accessible for visitors who are blind. The visitor will be able to use the keyboard to navigate and use the controls, but they would not be able to read the content on the markers. This could perhaps be solved with better Javascript skills, which would involve reworking the code to switch the order of &lt;code&gt;tabindex&lt;/code&gt; on the markers. To elaborate, I did put &lt;code&gt;tabindex&lt;/code&gt; in place, however when tabbing to the map, it went to the markers before it went to the controls.&lt;/p&gt;
+
+&lt;p&gt;Also, I left the link text in place. After all &lt;a href=&quot;#&quot; tabindex=&quot;-1&quot;&gt;click here&lt;/a&gt; is not suitable for link text. If you are tabbing with a screen reader, then the link needs to be descriptive. I made changes to this link text in version two, to show what the improvement to somebody using a screen reader. I’d also say that for &lt;a href=&quot;http://en.wikipedia.org/wiki/Speed_reading&quot;&gt;skim readers&lt;/a&gt;, this would also be beneficial.&lt;/p&gt;
+
+&lt;p&gt;Finally I felt that the map was not great for visitors who may have a cognitive disability, and I wanted to make this clearer and more understandable.&lt;/p&gt;
+
+&lt;h3 id=&quot;second-version&quot;&gt;Second version&lt;/h3&gt;
+
+&lt;p&gt;I resisted on calling this the &lt;i&gt;Final version&lt;/i&gt;, as I know that I will be able to revise this further. I do need to work with some of the markup, and a couple of other things that I would like to work on to further improve it. Although not necessary, a &lt;a href=&quot;http://webaim.org/techniques/skipnav/&quot;&gt;Skip to main content solution&lt;/a&gt; should be put in place. It is not needed on a simple page as this, but I think it will be good practice to get into good habits. Also, I want to do more with &lt;a href=&quot;&amp;lt;http://www.w3.org/TR/wai-aria/roles&quot;&gt;ARIA roles&lt;/a&gt; in the future, I am sure that there are more that I can introduce on the &lt;code&gt;select&lt;/code&gt; box, and the map itself.&lt;/p&gt;
+
+&lt;p&gt;The second version can be found here: &lt;a href=&quot;../playground/europeana/more_accessible_map/&quot;&gt;Accessible map: version two&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As you will see. I reinforced the map with a drop-down selector. I went with this for many reasons, namely the proximity between the question and answer implies that they are related, and so I believe this could be more understandable for people with cognitive disabilities, than an awkward map which requires lots of clicking/dragging/zooming.&lt;/p&gt;
+
+&lt;p&gt;I did focus a lot on disabilities in the presentation, but I also hope that the main point comes across. Accessibility is for everybody. The drop-down is a better solution regardless of disability, as it gives the visitor the information that they require much quicker than the map would.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-presentation&quot;&gt;The Presentation&lt;/h3&gt;
+&lt;p&gt;You can see the &lt;a href=&quot;https://speakerdeck.com/deanbirkett/accessible-design&quot;&gt;Accessible Design presentation&lt;/a&gt; on Speakerdeck. Or alternatively, you can view it below.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;88e929903570013044a4123138155474&quot; data-ratio=&quot;0.925022583559169&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/accessible-design-presentation&quot;&gt;Accessible design presentation&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on February 15, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The simplicity of design for children]]></title>
+  <link rel="alternate" type="text/html" href="/articles/the-simplicity-of-design-for-children" />
+  <id>/articles/the-simplicity-of-design-for-children</id>
+  <published>2013-01-22T00:00:00+01:00</published>
+  <updated>2013-01-22T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;This evening I stood on the train (sitting would have been impossible due to the wonders of Dutch rail, and how they cope when it snows!), and decided to catch up on what new things were going on in the world. This soon switched to Twitter, and then Facebook…&lt;/p&gt;
+
+&lt;p&gt;Looking down, I saw the below image from the Nintje website.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/012213_miffy.jpg&quot; alt=&quot;Nijntje website landing page - brightly coloured, and with cartoon graphics.&quot; /&gt;
+	&lt;figcaption&gt;Nijntje homepage - a Dutch childrens character&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Why Nijntje is a &lt;i&gt;friend&lt;/i&gt; on Facebook is a different story, but when I saw the image it struck me at how instantly understandable this image was, and how clear the icons were (to me), without actually labelling them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have a go…&lt;/strong&gt; what do you think the above icons mean? What would you expect to happen if you clicked on them?&lt;/p&gt;
+
+&lt;p&gt;Without giving you the instant answers, I’d also like to show you this icon below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/012213_ios-icon.png&quot; alt=&quot;iOS icon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now what do you think this icon does? For those people who use Apple products, then it may already be well-known… but what about people who don’t use these products. I have seen this used online, but the context hasn’t always been the same.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-the-icons-on-the-nijntje-site-mean&quot;&gt;What do the icons on the Nijntje site mean?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; - This house icon will take you to the home page of the site&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Music / Sound&lt;/strong&gt; - The drums will take you to an area where you can make your own music&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Draw&lt;/strong&gt; - The pencils will take you to an area where you can colour in drawings&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video&lt;/strong&gt; - The image of Nijntje in a television set takes you to a place where you can watch video&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Play&lt;/strong&gt; - The toys take you to an area where you can play games&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Read&lt;/strong&gt; - The icon of Nijntje with a book open, takes you to a place where you can read books or be told stories&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Without being a visitor to the site I managed to get a 6/6 score. How did you do?&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-the-other-icon-mean&quot;&gt;What does the other icon mean?&lt;/h3&gt;
+
+&lt;p&gt;On my iPhone, this icon is used to change the language of the keyboard. I click on this to change the spell checker from English to Dutch for example.&lt;/p&gt;
+
+&lt;p&gt;Is this a clear, intuitive icon, and does it work without explanation? I would suggest not. To an untrained eye it could perhaps suggest that it was something to do with a map. For iOS devices it is used when you are inputting text, so it appears when the onscreen keyboard is present. But does this mean that it should become a default for changing input language? What if this was taking out of the context of the device, and placed on a screen to try and convey this meaning?&lt;/p&gt;
+
+&lt;p&gt;When it comes to icons I feel that we have a lot to learn from the people who design with children in mind.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I posted a link to this post on Facebook, and the &lt;i&gt;crazily talented&lt;/i&gt; &lt;a href=&quot;http://www.tedwiggin.com/Collages/collages.html&quot;&gt;Ted Wiggin&lt;/a&gt; posted this image below. What a brilliant way to show that you can still take these icons and put them elsewhere, and yet they are still understandable in this new area! The only one that I’d be unsure of would be the pencils, does this now suggest a text editor, a code editor, more than a tool like Photoshop?&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/012213_ted-wiggin.png&quot; alt=&quot;Nijtje icons used on a Mac desktop&quot; /&gt;
+	&lt;figcaption&gt;Nijntje icons used on a Mac to replace the default icon set&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/the-simplicity-of-design-for-children&quot;&gt;The simplicity of design for children&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on January 22, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Forms, a shared thought process]]></title>
+  <link rel="alternate" type="text/html" href="/articles/forms-a-shared-thought-process" />
+  <id>/articles/forms-a-shared-thought-process</id>
+  <published>2013-01-19T00:00:00+01:00</published>
+  <updated>2013-01-19T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;Recently I was asked for an opinion on a website, to see if the workflow was natural and easy to follow. It was nice to be involved in a very small way, and although I won’t comment on the workflow itself. I thought it would be nice to highlight a few suggestions that I made, and talk about why I believe them to be better choices.&lt;/p&gt;
+
+&lt;p&gt;What follows are two images of forms, both have the original website on the left, and on the right is my mock-up of what changes I would be keen to carry out.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-image-upload&quot;&gt;The image upload&lt;/h3&gt;
+
+&lt;p&gt;The first image is looking at the ‘cover story’ creation. I misunderstood this when I saw this, and instantly assumed that it was where you would upload an object. In fact, the intention for this section was to upload a single object, which would then act as a featured image to the story.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/011913_create-story-1.png&quot; alt=&quot;Side by side comparison of a box with only drag and drop functionality, and one with the option to choose a file.&quot; /&gt;
+	&lt;figcaption&gt;The cover image area, a place to upload a featured image to a story&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The biggest issue I have here is the fact that the initial interface allows for one method of interaction, and that is a clumsy one at best:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Some people with poor fine motor control have difficulties making small movements and remaining steady. For this group of people, the dexterity requirements to accurately select and move an object using a pointing device can cause them problems, and they benefit from a keyboard equivalent being made available to allow them to use such functionality in a different way. &lt;br /&gt;&lt;small&gt;— &lt;a href=&quot;http://dev.opera.com/articles/view/accessible-drag-and-drop/&quot;&gt;Opera article, “Accessible drag and drop using WAI-ARIA”&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you read the above article, you will see that it is not impossible to make drag and drop accessible for those who don’t use a mouse, but there are other input methods that I believe would either be tricky or cumbersome. It is a question that others are asking with regards to &lt;a href=&quot;http://ux.stackexchange.com/questions/22461/is-a-drag-and-drop-ui-usable-for-organizing-categorizing-items&quot;&gt;drag and drop, and accessibility&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My suggested improvement would be to add an alternative to drag and drop. For users who want to use this method then the option is there, but it should &lt;i&gt;always&lt;/i&gt; be an option.&lt;/p&gt;
+
+&lt;p&gt;For myself, I rarely used drag and drop on anything that requires dragging and dropping from more than one window. The only reason this has changed recently, is the fact that I now have two large screens. However, when I am on my old laptop, to drag and drop a file from Windows Explorer into a Chrome upload box is painful. It generally means that I resize my browser, which is  a lot of effort for something that should be easy.&lt;/p&gt;
+
+&lt;p&gt;Although I misinterpreted the purpose of the above upload box, I think the method is still valid.&lt;/p&gt;
+
+&lt;p&gt;The second suggested change on this image is nowhere near as vital as the first, but I still believe that it is worthwhile. That change would mean replacing the ‘&lt;strong&gt;Step 1/3&lt;/strong&gt;’ notification with a progress bar, supported with a percentage indicator.&lt;/p&gt;
+
+&lt;p&gt;The reason behind this change is not only that it is visually more appealing, but as many articles suggest, &lt;a href=&quot;http://www.business2community.com/content-marketing/gamification-in-content-marketing-the-progress-bar-at-work-0370736&quot;&gt;the gamification of the progress bar&lt;/a&gt; is rife with benefits.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Humans love progress bars, if you see a progress bar, you want to complete it. &lt;br /&gt;&lt;small&gt;— Seth Priebatsch, &lt;a href=&quot;http://www.scvngr.com/&quot;&gt;SCVNGR&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/profile/view?id=37139467&quot;&gt;LinkedIn&lt;/a&gt; do this so well. They often appear in articles, and &lt;a href=&quot;http://www.amazon.com/Seductive-Interaction-Design-Effective-Experiences/dp/0321725522&quot;&gt;books&lt;/a&gt;, about the very subject of the progress bar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It turns out that my profile completeness was only about 25 percent. But, by adding another position I could be 40 percent complete. That was a simple enough request. So, I added my last employer. Then I got another prompt: “Adding a summary will bring you to 55 percent.” So I did that. &lt;br /&gt;&lt;small&gt;— Stephen P. Anderson, &lt;a href=&quot;http://www.amazon.com/Seductive-Interaction-Design-Effective-Experiences/dp/0321725522&quot;&gt;Seductive Interaction Design&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I intentionally felt that opening the form was step 1 of 4, and not step 1 of 3, so immediately the visitor would see that they were 25% of the way through the form already, rather than at an uninspiring 0%. When the user uploads the initial image, the form would already be at 50%. I don’t know if there has been any user research with regards to using a progress bar, or the alternative “step 1 of 3” method, but I would feel that the visual progress bar and supporting percentage indicator would have a lower drop-off and higher completion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/011913_tweet.png&quot; alt=&quot;LinkedIn progress bar tweet&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-story-creation-page&quot;&gt;The story creation page&lt;/h3&gt;
+
+&lt;p&gt;This second image is the story creation page, the area where you fill in the content, and describe the story that you are creating. I have not focused on the small input areas, but rather the issues with placeholder text, and making interaction easier.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/011913_create-story-2.png&quot; alt=&quot;Side by side comparison of a form which includes a tag cloud, and a bar to show how far you are through the process.&quot; /&gt;
+	&lt;figcaption&gt;The content creation area, where to input the title, story details, and tags&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The first thing that you may notice is that there are no &lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt;s at all on the first screenshot. There is a reliance simply on the &lt;code&gt;&amp;lt;placeholder&amp;gt;&lt;/code&gt; text. This is bad for a number of reasons, &lt;a href=&quot;http://caniuse.com/input-placeholder&quot;&gt;browser support is good, but weak in IE&lt;/a&gt;, screen readers will pick it up on most browsers, but there are more issues. The default text color contrast fails the &lt;a href=&quot;http://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-contrast&quot;&gt;W3C’s color contrast guidelines&lt;/a&gt;, meaning that the &lt;a href=&quot;http://css-tricks.com/snippets/css/style-placeholder-text/&quot;&gt;text would need styling&lt;/a&gt; to pass these guidelines. Unfortunately, &lt;a href=&quot;http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css&quot;&gt;support for this is still not perfect&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The &lt;code&gt;&amp;lt;placeholder&amp;gt;&lt;/code&gt; attribute should not be used as an alternative to a &lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt;. &lt;br /&gt;&lt;small&gt;— &lt;a href=&quot;http://www.w3.org/html/wg/drafts/html/master/single-page.html#the-placeholder-attribute&quot;&gt;W3C Guidelines&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In short: Reliance on a &lt;code&gt;&amp;lt;placeholder&amp;gt;&lt;/code&gt; is bad.&lt;/p&gt;
+
+&lt;p&gt;I introduced &lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt;s at the top of the forms. This is once again due to being better for accessibility. Not only are &lt;a href=&quot;http://www.uxmatters.com/mt/archives/2006/07/label-placement-in-forms.php&quot;&gt;forms completed faster if the &lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt; is above the &lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt;&lt;/a&gt;, but also the proximity and placement is better for people who may have cognitive disabilities. Thirdly, for partially sighted users who may magnify the text, the form placement will still be easily accessible by scrolling up/down, and not left/right as you would have if the &lt;code&gt;&amp;lt;input&amp;gt;&lt;/code&gt; was placed to the right.&lt;/p&gt;
+
+&lt;p&gt;The other thing I introduced here, that has not already been discussed, is the “suggested tags” area. In all honesty, this is the suggestion that I would need to do more research into before suggesting it as an improvement. I am not sure if there would be any SEO impacts on this…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have opinions of my own, strong opinions, but I don’t always agree with them. &lt;br /&gt;&lt;small&gt;— &lt;a href=&quot;http://en.wikipedia.org/wiki/George_H._W._Bush&quot;&gt;George H.W. Bush&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;… the thought process behind it was that it should show suggested tags, to make this easier for the user, and to also reduce duplication or misspelled words.&lt;/p&gt;
+
+&lt;p&gt;This has been a fairly substantial post, but I did want to just share the process. Doing work on the web is often viewed simply by what appears on the screen, and as you will see, it isn’t like that at all!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/forms-a-shared-thought-process&quot;&gt;Forms, a shared thought process&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on January 19, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Polar, stylish and inspiring]]></title>
+  <link rel="alternate" type="text/html" href="/articles/polar-stylish-and-inspiring" />
+  <id>/articles/polar-stylish-and-inspiring</id>
+  <published>2013-01-04T00:00:00+01:00</published>
+  <updated>2013-01-04T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;I have meant to write this blog post in a while, but have struggled with time (despite a long winter break), and I wanted to show pictures on this post. It may seem strange that the latter point is an issue at all, but I am keen to be as bandwidth friendly as I possibly can, and so I wanted to explore all avenues.&lt;/p&gt;
+
+&lt;p&gt;Before I talk about Polar, I just want to mention those avenues!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/scottjehl/picturefill&quot;&gt;Picturefill: A responsive image solution&lt;/a&gt; - which mimics the &lt;a href=&quot;http://picture.responsiveimages.org&quot;&gt;W3C: Proposed &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; element&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This &lt;a href=&quot;http://blog.netvlies.nl/design-interactie/retina-revolution&quot;&gt;Heavily compressed image solution&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Or &lt;a href=&quot;http://boagworld.com/dev/how-should-we-handle-responsive-images&quot;&gt;do nothing at all with images&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the time being I took the middle option. As this post discusses, I had great success in &lt;a href=&quot;https://plus.google.com/u/0/115886095036991487343/posts/jPxkycocNCj&quot;&gt;reducing some NASA images&lt;/a&gt; considerably, from 223kb to 34kb without any noticeable difference.&lt;/p&gt;
+
+&lt;p&gt;I don’t like the thought of the web being populated with large low quality images, however as I don’t think these images will be re-used then I feel it is a safe option for now. I definitely do look forward to the &lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; element though.&lt;/p&gt;
+
+&lt;h3 id=&quot;on-with-the-show&quot;&gt;On with the show&lt;/h3&gt;
+
+&lt;p&gt;With that rather lengthy aside out-of-the-way, I want to talk/rave about the &lt;a href=&quot;http://www.polarb.com/&quot;&gt;Polar app&lt;/a&gt; by &lt;i&gt;Input Factory Inc.&lt;/i&gt;. When you see the stunning simplicity at work, then it will be no surprise to find out that &lt;a href=&quot;http://www.lukew.com/&quot;&gt;Luke Wroblewski&lt;/a&gt; is the CEO and Co-Founder.&lt;/p&gt;
+
+&lt;p&gt;Luke wrote this excellent article on Smashing Magazine, about &lt;a href=&quot;http://uxdesign.smashingmagazine.com/2011/08/22/new-approaches-to-designing-login-forms/&quot;&gt;new approaches to log-in forms&lt;/a&gt;, which led to a few personal thoughts about how we (at Europeana) presently tackle log-in forms. Before I discuss that, here is a solution I can really buy into.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/010413_polar-login.jpg&quot; alt=&quot;Login screen for Polar&quot; /&gt;
+	&lt;figcaption&gt;Log in form on the Polar app, showing passwords hidden and shown on push&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The one thing that I love about the sign-up procedure was the fact that you can select whether to show or hide the password. This puts the user in full control, rather than the designers. If I am alone I would quite happily unmask the password, so that I can make sure that there aren’t any typos. However, when a colleague is peering over my shoulder, then I’d prefer to make sure that my password was only known to myself. The latter has happened I should say.&lt;/p&gt;
+
+&lt;p&gt;Not discounting the excellent work done by colleagues, I do think that the Europeana 1914-1918 sign-up form does neither. You first type in an unmasked password, and then type in a masked one. When signing in you can only sign in with a masked password.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/010413_1914-1918-login.png&quot; alt=&quot;Confusing sign-in form on Europeana 1914-1918&quot; /&gt;
+	&lt;figcaption&gt;Europeana 1914-1918 sign-up form&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;i&gt;I’m all for options!&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;As for Polar itself, it is better to download and use the app to see why it is becoming so popular. According to a recent &lt;a href=&quot;http://mashable.com/2012/11/27/polar-app/&quot;&gt;article on Mashable about the app&lt;/a&gt;, it says that 30-35 polls are taken each visit. &lt;i&gt;That is a huge amount!&lt;/i&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/010413_polar-poll.jpg&quot; alt=&quot;A poll on Polar&quot; /&gt;
+	&lt;figcaption&gt;Poll on the Polar app&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As the image above suggests, polls do not have to relate to questions such as &lt;i&gt;Which is the best film between these two?&lt;/i&gt;, &lt;i&gt;Who will win this sports match?&lt;/i&gt;, or &lt;i&gt;Which is Justin Bieber’s best song?&lt;/i&gt; but they can actually be simple A/B tests, which get a huge reach.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Looking at two polls I took recently, one has over 200 replies, and the other has almost 300. These are great figures for quantitive data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As for the design, you can see that so much thought has gone into how the user interacts. I recently did some tests on how the &lt;a href=&quot;http://jasonweaver.name/lab/offcanvas/&quot;&gt;Off Canvas design approach&lt;/a&gt; could work on a mobile. I found that the navigation at the bottom of the screen &lt;i&gt;felt nicer&lt;/i&gt; to use, rather than placing the navigation at the top of the screen. I need to investigate this more, but you can see from the video below that there were obvious considerations made as to how a device is being held, and how touch could be made natural.&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/bgxWKWPFiPc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The final thing I want to mention relates to the Justin Bieber question above. If you don’t want to receive questions like this, then you can simply &lt;a href=&quot;http://polarb.com/22217&quot;&gt;change your preferences to receive adult polls&lt;/a&gt; only. The way that they have integrated this is actually in the same format as the rest of the questions. I think eventually this will need to be implemented into a preferences area, so that the option is not lost, but I think that even if this is done then the format will remain the same. Beautiful.&lt;/p&gt;
+
+&lt;p&gt;Further reading: Luke also wrote the &lt;a href=&quot;http://rosenfeldmedia.com/books/webforms&quot;&gt;Web Form Designs&lt;/a&gt; book too, although I have yet to read it.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/polar-stylish-and-inspiring&quot;&gt;Polar, stylish and inspiring&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on January 04, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Accessibility for UX Designers III]]></title>
+  <link rel="alternate" type="text/html" href="/articles/accessibility-for-ux-designers-III" />
+  <id>/articles/accessibility-for-ux-designers-III</id>
+  <published>2012-12-13T00:00:00+01:00</published>
+  <updated>2012-12-13T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;This is the third, and final post about the Accessibility for UX Designers workshop, that was part of the Inspire Conference here in Leiden. Here are some more notes that I took from the excellent workshop.&lt;/p&gt;
+
+&lt;h3 id=&quot;notes-from-the-workshop&quot;&gt;Notes from the workshop&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;code tabindex=&quot;0&quot;&gt;&amp;lt;tabindex=&amp;quot;0&amp;quot;&amp;gt;&lt;/code&gt; will allow something to be in focus, that does not necessarily mean that it is clickable. (If you hit TAB a few times then you will see that the code block in this paragraph will be highlighted using this method.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; keep modal (type) windows on the same page, and use anchor tags to call them. For example:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;#usingthissite&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; ....
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;h2&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;display:none&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Help&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h2&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;usingthissite&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;tabindex=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;-1&amp;quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;......&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You could then position the element in a modal type box when the anchor tag is activated. When the user navigates away, then the next tab would be the next element after the anchor. If it was called in from another page, then the tab order would be lost and you would be positioned back at the top of the page. Using the above method, it would also cover all bases. If CSS was disabled then you would see a Help section at the bottom of the page, so it would always be possible to see the information required. Manage the focus, and manage the injection point of information being called in.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Autosuggest is great for people with dyslexia, or have poor spelling. However it is technically tricky for people who aren’t using keyboards as their input device. For people who are using speech software, but have poor speech, then it could be an issue. You should always counterbalance this by allowing for an override. A user should always be able to choose what they want, and not be given what the autosuggest finds.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lots of rules are contextual, you cannot program for every situation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;^&lt;em&gt;&amp;#038;$^&amp;#038;&lt;/em&gt;^!* CAPTCHA&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; The earlier in the process that you think of accessibility, the less the cost to implement.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Include people with functional needs into personas, consider a user who has these needs. You do not need to specifically describe the disability, but you should always describe the requirements, such as, &lt;i&gt;John needs to use a keyboard to navigate the website&lt;/i&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; When doing user research, or usability tests, then always consider focus groups and have walk-throughs with people with disabilities. &lt;strong&gt;Never&lt;/strong&gt; run a test when the test is not ready. If you know the site has poor accessibility, then do not run the test until you feel it is ready. It will be an infuriating experience for the tester. Do the technical accessibility fixes first, and then do the testing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; In design, always consider the colours / iconography / visual language, and make sure the contrast works. A black mail icon on white background may look like a letter to users with low-vision. Whereas if this was a white icon on a green background, then it will be more apparent.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This has been a long list of notes, and thoughts, some I have expanded on and looked into further, and I already have a number of other posts lined up. I want to look at forms in more detail, maps, carousels. From my brief venture into learning how to be better at accessibility I know that I have learnt an awful lot, but I am also aware at how much further I need to go on this subject.&lt;/p&gt;
+
+&lt;p&gt;The final part of the workshop resulted in an interesting question, &lt;i&gt;“Okay, we know it is great, we know it is important - how do we sell it to the boss?”&lt;/i&gt;, it was an interesting answer, which talked about device independence, fluidity, responsive design, cleaner code, SEO benefits, bandwidth savings, compliance reasons. Which all seem excellent reasons of course, but I think my focus has to be on the individual.&lt;/p&gt;
+
+&lt;p&gt;I said in the first post that I don’t know anybody with a disability, however I rather stupidly forgot that I actually have &lt;a href=&quot;http://en.wikipedia.org/wiki/Multiple_sclerosis&quot;&gt;Multiple Sclerosis&lt;/a&gt;. I am (to date) very fortunate in the fact that I have got used to the aches and pains, and general issues, and I am fortunate because I don’t see myself as being disabled, or have serious motor / cognitive issues that could come with the illness.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;But what about tomorrow?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;What if I lost access to do the things that I take for granted now?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;What if something happened to you?&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Accessibility is really important, and as the people who help build the web, we have to ensure that people realise that - even if it is perhaps for a selfish reason, let us try to make the web better.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/accessibility-for-ux-designers-III&quot;&gt;Accessibility for UX Designers III&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on December 13, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Accessibility for UX Designers II]]></title>
+  <link rel="alternate" type="text/html" href="/articles/accessibility-for-ux-designers-II" />
+  <id>/articles/accessibility-for-ux-designers-II</id>
+  <published>2012-12-13T00:00:00+01:00</published>
+  <updated>2012-12-13T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;Following on from the earlier post, and to quickly recap. This post relates to some of the things that I picked up from the &lt;i&gt;Accessibility for UX Designers&lt;/i&gt; workshop, that was part of the &lt;a href=&quot;https://2012.inspireconf.com/?page=workshops&quot;&gt;Inspire Conference&lt;/a&gt; here in Leiden.&lt;/p&gt;
+
+&lt;h3 id=&quot;notes-from-the-workshop&quot;&gt;Notes from the workshop&lt;/h3&gt;
+
+&lt;p&gt;Here are some notes and examples, I will try to put some context in when possible:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; look in the real world to see how solutions are provided, and see how to bring those into the digital world. Here is a &lt;a href=&quot;http://www.edimensional.com/product_info.php?cPath=24&amp;#038;products_id=143&quot;&gt;access controller&lt;/a&gt; for one-handed use of video games consoles. All of the various keypads are interchangeable, and modular. This means that if you want to switch the D-pad to be closer to the thumb, then you could, or alternatively you could place it elsewhere. In the digital world we have to be &lt;strong&gt;flexible&lt;/strong&gt; and &lt;strong&gt;modular&lt;/strong&gt;, and not set and rigid.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; cognitive impairment is very tricky it seems. This could cover people with a range of disabilities and requirements, a person could suffer from ADHD, dyslexia, dyscalculia, that could relate to mental illness, brain injuries, or neurological disorders. Good practice would be to use clear language, do not over complicate when you can give a clearer message.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/121312_complicated-message.png&quot; alt=&quot;A confusing error message from Microsoft&quot; /&gt;
+	&lt;figcaption&gt;An over complicated message&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Something that we may find whimsical or fun, could break the routine for somebody with cognitive impairments. People suffering with autism may have a &lt;a href=&quot;http://www.autism.org.uk/living-with-autism/understanding-behaviour/obsessions-repetitive-behaviours-and-routines.aspx&quot;&gt;routine behaviour&lt;/a&gt; that they are used to, and unexpected change can create anxiety and distress.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accessibility is not binary, it is not all-or-nothing or black and white. If you are tired, what happens to your memory? &lt;br /&gt;&lt;small&gt;— &lt;a href=&quot;http://www.webstandards.org/about/members/feather/&quot;&gt;Derek Featherson&lt;/a&gt;, Simply Accessible (paraphrase)&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Turn off CSS and see what story the page tells you. This is perhaps obvious, and something that we do already, however you should also try to see what the page tells you - are the lists nested correctly, is it clear from the start where you are and if the expectation of the page is met.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; In high contrast mode, on Windows machines, the &lt;code&gt;background-image&lt;/code&gt; property will not be shown.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Forms, such as &lt;a href=&quot;http://www.surveymonkey.com/s/SWDKZSS&quot;&gt;this form&lt;/a&gt;, which uses the &lt;a href=&quot;http://en.wikipedia.org/wiki/Likert_scale&quot;&gt;Likert scale&lt;/a&gt; can be problematic for a number of reasons. If a user is using a magnified display, then they may have issues navigating from left to right, this can be counterbalanced by using &lt;a href=&quot;http://en.wikipedia.org/wiki/Zebra_striping#Table_zebra_striping&quot;&gt;zebra striping&lt;/a&gt; so that the user will be able to follow along the stripe. If a user has a cognitive impairment however, then they need to read the title of the question, in this example, &lt;i&gt;How helpful were the new forms and guidelines&lt;/i&gt;, then they would need to read the secondary question, eg. &lt;i&gt;The guidelines for completing this IRB form were thorough and informative.&lt;/i&gt;, then they need to read the rating scale, then they will need to find the box to check, and repeat. As the proximity of the questions, the legend, and the boxes are very different, then the process could be confusing, and frustrating to use.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; A simpler solution to above? Why not simply have a drop-down where you can fill in the rating from &lt;i&gt;Strongly disagree&lt;/i&gt; to &lt;i&gt;Strongly agree&lt;/i&gt;, not only is this better for accessibility, but it is easier to fill in for users without visual, motor or cognitive impairments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Don’t split fields, the below example is asking the user to fill in their telephone details. Instead of just asking for the phone number, the form expects an area code, a local number, and an extension. It also expects you to manually select whether it is a mobile or a landline. An example could be a person with a cognitive disability, they would need to understand what the second box was for, what the third box was for, etc. This could be much better, not only for accessibility, but also from a simple UX standpoint. It is much easier to paste a number into one field for example!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/121312_phone-numbers.png&quot; alt=&quot;A form to enter a telephone number, split into 5 separate areas.&quot; /&gt;
+	&lt;figcaption&gt;Form with seperate areas for area code, number, extension&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Voice activated software is something that you may not think about, an example of how a user may navigate a page could be like below:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;mouse move left, faster, faster, stop, mouse move right 20, mouse move down, stop.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Another way of navigating using voice, could be to use &lt;a href=&quot;http://youtu.be/LIozsaUvbWw?t=5m22s&quot;&gt;mouse grid&lt;/a&gt;. This creates a 3 x 3 box, and the person would say “1” to concentrate on the top left area of the screen. It would then redraw a 3 x 3 grid, until you can narrow down to the area.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; The visual contrast needs to be much greater when using the keyboard to navigate through a website. Go to your site, hit TAB a few times and then try and find out where you are. If you add a visual identifier then it makes it much easier for users who are using the keyboard to visually know where they are on a page, an example could be the &lt;a href=&quot;http://www.guardian.co.uk/&quot;&gt;Guardian newspaper website&lt;/a&gt;, if you hit TAB then you will see there is a visual identifier to show where you are on the page (although in some areas it could probably be better). What the Guardian do really well is the top level navigation, there are other sites that would TAB through every single item in the submenu. If it is a navigation item, then the arrows should be used to open/close them, so that you do not have to TAB through every item.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Have a logical tab order, check out &lt;a href=&quot;http://www.youtube.com/music?feature=guide&quot;&gt;Youtube&lt;/a&gt;, a site that you would expect to be great to use, however if you keep hitting the tab then you will see the visual identifier eventually jump from the far left column, over to the far right column, and then finally to the content in the middle. Build your sites with the important information coming first, and use CSS for placement. Code with this in mind, rather than looking at a page from top left to bottom right.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make developers test the site with a keyboard, put it in their design sprints.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The above line seems to be as good a point as any to finish this post. I will write one more on the workshop, and then split out some topics to look at further.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/accessibility-for-ux-designers-II&quot;&gt;Accessibility for UX Designers II&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on December 13, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Accessibility for UX Designers I]]></title>
+  <link rel="alternate" type="text/html" href="/articles/accessibility-for-ux-designers-I" />
+  <id>/articles/accessibility-for-ux-designers-I</id>
+  <published>2012-12-13T00:00:00+01:00</published>
+  <updated>2012-12-13T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;Yesterday I had a marathon eight-hour accessibility workshop for UX Designers with &lt;a href=&quot;http://simplyaccessible.com/about&quot;&gt;Derek Featherstone&lt;/a&gt; of &lt;i&gt;Simply Accessible&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;My interest in accessibility and interest in this particular course, was just down to the fact that it is &lt;i&gt;obvious&lt;/i&gt; - surely we should build websites that everybody can use, and not just those who we associate most closely with. All of my friends are able-bodied, being bespectacled is perhaps the only noticeable disability that some suffer. I have no idea if any of them suffer colour blindness, but nobody is deaf, or has motor or cognitive disabilities, or I should say, I don’t associate anybody in my circle with a disability that is noticeable.&lt;/p&gt;
+
+&lt;p&gt;Before the workshop we were asked to rate our current knowledge between 0-5 based on what we felt we knew about accessibility, I went with 1 (0 being none), I figured that I knew how to check for colour blindness, I felt I was fairly smart with my &lt;code&gt;&amp;lt;alt&amp;gt;&lt;/code&gt; tags, I knew a little about &lt;code&gt;ARIA&lt;/code&gt;, and I have already tried to steer away from phrases such as, &lt;i&gt;click here&lt;/i&gt; or &lt;i&gt;press any key on the keyboard&lt;/i&gt;, but I am also very aware that there is a lot more that I needed to know on this subject.&lt;/p&gt;
+
+&lt;h3 id=&quot;notes-from-the-workshop&quot;&gt;Notes from the workshop&lt;/h3&gt;
+
+&lt;p&gt;Here are some notes and examples, I will try to put some context in when possible:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; a website had “News 12/12/12” at the top of the page, when you would open the menu you would see that it was a recent news area, the date next to it merely pointed to the current date. For people using screen readers,  the implication would be that this was the news from December 12th 2012.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; look at opposite ends of the spectrum when you consider a person, if you look at the &lt;a href=&quot;http://en.wikipedia.org/wiki/Human_height&quot;&gt;average height&lt;/a&gt; of people as an example, you would see that most people fall between 5’5 and 5’11, that doesn’t mean that people under or above those heights don’t exist. People with disabilities that aren’t considered &lt;i&gt;average&lt;/i&gt; are easily forgotten. To put it into a basic web context, consider the young and old, and their motor control. How &lt;i&gt;we&lt;/i&gt; operate a mouse, and where &lt;i&gt;we&lt;/i&gt; click on a screen does not mean that we should forget those who may have difficulties with operations we could consider simple.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Drag and drop is a complex action.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; look at the tools that people with disabilities use, and don’t assume. Blind users may prefer to use a braille keyboard over &lt;a href=&quot;http://www.freedomscientific.com/products/fs/jaws-product-page.asp&quot;&gt;JAWS screen reading software&lt;/a&gt;, or importantly, they may switch between the two depending on the task. It may need less concentration to use one device over the other.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/121312_braille-keyboard.jpg&quot; alt=&quot;Braille keyboard&quot; /&gt;
+	&lt;figcaption&gt;Example of a braille keyboard&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Braille keyboards are left to right (in left to right languages), and the indentations allow for &lt;strong&gt;40 characters&lt;/strong&gt; at a time. Consider these two &lt;code&gt;&amp;lt;alt&amp;gt;&lt;/code&gt; tags, &lt;code&gt;&amp;lt;img alt=&quot;This is a video showing the features of the website&quot;&amp;gt;&lt;/code&gt;, and now consider &lt;code&gt;&amp;lt;img alt=&quot;Video: Features of the website&quot;&amp;gt;&lt;/code&gt;. For people using braille devices for example, then they will know that it is a video after five characters. Those users could then decide whether to skip the content at an earlier stage. Always put things into context though, if you were running a website whose entire purpose was to review toasters, then &lt;code&gt;&amp;lt;img alt=&quot;Philips HD2566 review&quot;&amp;gt;&lt;/code&gt; would make more sense than &lt;code&gt;&amp;lt;img alt=&quot;Video: Review of Philips HD2566&quot;&amp;gt;&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;a href=&quot;http://www.omnigroup.com/products/omnidazzle/&quot;&gt;Omnidazzle&lt;/a&gt; is an app that is used primarily for screencasts, but it is also good to show focused areas of the screen. Being a low-vision user of a site does not mean that you use a screen reader, you could be using a magnifier. Alternatively blow up the size of your fonts, and see how easy it is to use your website. Something that could be technically fine for a screen reader, could be horrendous for a user who is using a magnifier.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; For users who have auditory disabilities, then supply captions in multimedia, for even higher levels of accessibility then also give a link to a transcript of the video, this is beneficial for users with low-vision who may use a screen reader. A video may take 7 minutes to &lt;i&gt;watch&lt;/i&gt;, however a screen reader could read a transcript in just a couple of minutes. Supplying a transcript not only helps accessibility, but it also &lt;a href=&quot;http://www.inc.com/guides/2010/05/search-engine-optimization-for-video.html&amp;quot;&quot;&gt;helps SEO&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mobility and dexterity impairments may include prosthetic limbs, tremors, just using one hand, there could be a mix of hardware used. For someone with a tremor they may be able to move the pointer to a button to press, but struggle with actually pressing on that button.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; forms are terrible, if you are filling in a form, and type one field incorrectly then you should go to that field in particular, and not wipe the form and get the user to fill it in again. This is already annoying for somebody without a disability, but, for example, if a user had cerebral palsy then they could be typing one character every 3 seconds. To retype an entire form because of one field would be really frustrating, likewise for users with cognitive impairment, this experience would not be a positive one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The &lt;a href=&quot;http://www.google.com/nexus/&quot;&gt;Nexus 7&lt;/a&gt; has some smart functionality. If a user taps on a link, and other links are close by, then you will first see a magnified area. This means that if the tap was ambiguous, then it make it easier for the user to press the link that they want. This is especially useful for people with motor disabilities.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This post is already long so I will cut off here, I am on page 3 of 14, and expect to break certain elements down further. Before I finish though, I can say that despite rating my knowledge before the course as a 1, I now realise that it was more of a 0.1. After checking out a few websites I think 0.1 is probably the number that most designers/developers have. I now think I would raise my hand confidently at around the 0.6 mark, but that gap from 0.1 to 0.6 is &lt;strong&gt;huge&lt;/strong&gt;. Next step is getting to one and beyond.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/accessibility-for-ux-designers-I&quot;&gt;Accessibility for UX Designers I&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on December 13, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Building community]]></title>
+  <link rel="alternate" type="text/html" href="/articles/building-community" />
+  <id>/articles/building-community</id>
+  <published>2012-12-11T00:00:00+01:00</published>
+  <updated>2012-12-11T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;I have just finished day two of the excellent &lt;a href=&quot;http://2012.inspireconf.com/&quot;&gt;Ready to Inspire&lt;/a&gt; conference in Leiden, and I intend to write more about all the excellent talks, and what I took out of them a little later.&lt;/p&gt;
+
+&lt;p&gt;For now I just want to do a quick post on one thing - &lt;a href=&quot;https://rushmore.fm/&quot;&gt;Rushmore&lt;/a&gt;, and in particularly how they cleverly motivate you into helping them out.&lt;/p&gt;
+
+&lt;p&gt;For those who don’t know, Rushmore, is a music website that is being put together by the very smart folks at &lt;a href=&quot;http://fictivekin.com/&quot;&gt;Fictive Kin&lt;/a&gt;. The goals that they set out are clear, in the short-term they want to bring music fans together, talking about bands that they love. In the longer term, they want to get artists and fans closer together, making meaningful connections, and helping put the money back in the artists pockets.&lt;/p&gt;
+
+&lt;p&gt;This is something that I’m also a keen advocate of. I ran &lt;a href=&quot;http://www.rackandruinrecords.com&quot;&gt;Rack &amp;amp; Ruin Records&lt;/a&gt; for several years, and the only real goal that I had there was to help smaller artists reach a wider audience, and to give a &lt;i&gt;holding place&lt;/i&gt; for bands to store their music.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Rack &amp;amp; Ruin has evolved into a viable alternative to the more traditional indie labels, and long may this continue. The label is entirely not for profit, and in fact with hosting charges it has cost myself money to keep this project going, but I firmly believe that it is a worthwhile path to take – purely to see where it does actually lead.”&lt;br /&gt;&lt;small&gt;— &lt;a href=&quot;http://sonicspacefoundation.blogspot.nl/2009/08/interview-with-dean-birkett.html&quot;&gt;Dean Birkett&lt;/a&gt;, Rack &amp;amp; Ruin Records&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The people behind Rushmore seem to have the same noble ideas that I had, and so naturally when they were looking for people to help out, then my name was already going in the hat.&lt;/p&gt;
+
+&lt;h3 id=&quot;motivation&quot;&gt;Motivation&lt;/h3&gt;
+
+&lt;p&gt;Motivation is hard, you see a beta site that you like the look of, you sign-up, you wait six months, you get a “Welcome to &lt;strong&gt;X&lt;/strong&gt;!”, you can’t recall what &lt;strong&gt;X&lt;/strong&gt; is, you check it out for 2 minutes, you move on.&lt;/p&gt;
+
+&lt;p&gt;Rushmore didn’t do that. They asked for 300 volunteers, who they call &lt;i&gt;The 300&lt;/i&gt;, and they sent a personalised invitation out in under a month (and they even signed it with kisses).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We love music. We want to help shape a future where bands and fans are closer together, and we sure could use your help. If you love music as much as we do, we think you’re gonna love what we’ve started.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Naturally, I’m a music fan, these people seem nice (and they signed with kisses). Of course I want to help these people out. So I logged into the site, adopted five bands and started, basically, data entry. Now, as someone who comes from a support background, and as someone who set up a helpdesk in a previous workplace, I know a lot about data entry. I had to type in those tags you would find on &lt;strong&gt;every&lt;/strong&gt; printer, on &lt;strong&gt;every&lt;/strong&gt; PC, on &lt;strong&gt;every&lt;/strong&gt; phone, into some helpdesk software. Let me assure you that data entry is not fun.&lt;/p&gt;
+
+&lt;p&gt;But Rushmore had charts, you could see where you were compared to the rest of &lt;i&gt;The 300&lt;/i&gt;. One week later I was second in the chart at Rushmore. My competitive nature, added with my passion for music, and the fact that I was so close to beating &lt;a href=&quot;http://instagram.com/p/SxxDynHbkr/&quot;&gt;Simon Collison&lt;/a&gt; would mean that the following week I would be working that little bit harder.&lt;/p&gt;
+
+&lt;p&gt;Then I received another email, included was something that they called a &lt;i&gt;personalised sticker&lt;/i&gt;, so naturally I followed the link only to find &lt;a href=&quot;http://sticker.fm/s/MYnY1DNdEeK_MwqePiMO3Q/&quot;&gt;this nice welcome video&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now this is smart. Smart people can build sites, but they can’t build communities alone. They need to reach out and get people to take part, and to get people to write posts (like this one), which champion their ideas (as well as do their data entry).&lt;/p&gt;
+
+&lt;p&gt;I saw my &lt;a href=&quot;http://sphotos-e.ak.fbcdn.net/hphotos-ak-prn1/15325_388537169582_4670266_n.jpg&quot;&gt;Dean covered in cats&lt;/a&gt; image as Simon briefly presented Rushmore at the conference today, sat in second place, as he quickly panned down the page. Who would have thought that data entry could feel so rewarding?&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/building-community&quot;&gt;Building community&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on December 11, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Making the web accessible again]]></title>
+  <link rel="alternate" type="text/html" href="/articles/making-the-web-accessible-again" />
+  <id>/articles/making-the-web-accessible-again</id>
+  <published>2012-11-25T00:00:00+01:00</published>
+  <updated>2012-11-25T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;Below is a phrase that you may have seen more than once, and yet more often than not web accessibility is almost an afterthought, instead of what should be considered a fundamental need.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The power of the web is in it’s universality &lt;br /&gt;&lt;small&gt;- &lt;a href=&quot;http://en.wikipedia.org/wiki/Tim_Berners-Lee&quot;&gt;Tim Berners-Lee&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A &lt;code&gt;HTML&lt;/code&gt; document at its very core is accessible. By introducing &lt;code&gt;CSS&lt;/code&gt; we then introduce styling, and potential issues may arise here.&lt;/p&gt;
+
+&lt;p&gt;Let’s start with a quick example, here is some basic &lt;code&gt;CSS&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; body {
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 	background-color: black;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	}
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; h1 {
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 	color: #333;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 	}
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; p {
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 	font-size: 12px;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	color: #fff;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 	}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;I’m sure that the big issues will already jump out to some, but if you need a visual representation of how it looks, then you can take a look at the image below.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/112512_accessibility-test.png&quot; alt=&quot;Example of poor colour contrast on the web.&quot; /&gt;
+	&lt;figcaption&gt;Accessibility example&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;There are two big issues, and one which is debatable.&lt;/p&gt;
+
+&lt;p&gt;First up, the &lt;code&gt;h1&lt;/code&gt; colour, and the background colour of the page have very poor contrast, this is of course an obvious example, but what about the not-so-obvious? I think Jonathan Snook’s &lt;a href=&quot;http://snook.ca/technical/colour_contrast/colour.html&quot;&gt;Colour Contrast Checker&lt;/a&gt; is invaluable, to help making sure you pass the AA/AAA requirements for your website.&lt;/p&gt;
+
+&lt;p&gt;A consideration (before I continue), comes with opacity. Please remember that if you have an image as a background, and overlay a caption with opacity (as an example), then be aware that the background image could have a negative impact on the colour contrast of the text.&lt;/p&gt;
+
+&lt;p&gt;Secondly, a font-size of 12px just doesn’t cut it. I don’t care who says differently!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At age 40, only half the light gets through to the retina as it did at age 20. For 60-year-olds, it’s just 20%. &lt;br /&gt;&lt;small&gt;- &lt;a href=&quot;http://www.whatmakesthemclick.net/2011/06/03/first-podcast-kevin-larson-2/&quot;&gt;Kevin Larson&lt;/a&gt;, Reading Researcher at Microsoft&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lastly (unless I’ve missed something glaringly obvious), white text on a black background. I don’t use it personally, I find the strain too great for myself, but I have always been a fan of light backgrounds and darker text. However, I don’t believe it has any accessibility issues - &lt;em&gt;and if it does then please correct me!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;What prompted this post was a brief conversation with a &lt;a href=&quot;http://pro.europeana.eu/web/guest/about/staff&quot;&gt;colleague at Europeana&lt;/a&gt;, we touched on accessibility and I asked him if he could recommend any screen reader software that was free to use. He introduced me to &lt;a href=&quot;http://www.chromevox.com&quot;&gt;Chromevox&lt;/a&gt;. After ten minutes I knew that this would be a tool that I will be using a lot more in the future!&lt;/p&gt;
+
+&lt;p&gt;This post is already  long, but accessibility is not just about people with visual impairments, we need to consider other disabilities, deafness, motor or dexterity impairment, people with learning difficulties. We need to keep the web accessible, and stop breaking it! I am sure that it is only a matter of time before accessibility laws get tightened, and in the UK there are already &lt;a href=&quot;http://www.rnib.org.uk/aboutus/mediacentre/mediareleases/mediareleases2012/pages/pressrelease27jan2012.aspx&quot;&gt;legal proceedings&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Just as people differ in the language, characters and cultures to which they are used, so they differ in terms of their capacities, such as, in vision, hearing, motor or cognition. The universality which we expect of the Web includes making sure that, as much as we can, we make the Web a place which people can use irrespective of disabilities. &lt;br /&gt;&lt;small&gt;- &lt;a href=&quot;http://www.w3.org/2002/04/Japan/Lecture.html&quot;&gt;Tim Berners-Lee&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt; &lt;a href=&quot;http://www.w3.org/WAI/&quot;&gt;Web Accessibility Initiative&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/making-the-web-accessible-again&quot;&gt;Making the web accessible again&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on November 25, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Windows 8. Missing the mark?]]></title>
+  <link rel="alternate" type="text/html" href="/articles/windows-8-missing-the-mark" />
+  <id>/articles/windows-8-missing-the-mark</id>
+  <published>2012-11-19T00:00:00+01:00</published>
+  <updated>2012-11-19T00:00:00+01:00</updated>
+  <author>
+    <name>Dean Birkett</name>
+    <uri></uri>
+    <email>dean@deanbirkett.name</email>
+  </author>
+  <content type="html">&lt;p&gt;Jakob Nielsen absolutely destroys Windows 8 in his latest article entitled ‘Windows 8 - Disappointing Usability for Both Novice and Power Users’ on &lt;a href=&quot;http://www.nngroup.com/articles/windows-8-disappointing-usability/&quot;&gt;Alertbox&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s a fascinating read which seems to add to the growing voices of discontent, although Nielsen’s will hit hard!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On a regular PC, Windows 8 is Mr. Hyde: a monster that terrorizes poor office workers and strangles their productivity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unfortunately I haven’t been &lt;i&gt;fortunate&lt;/i&gt; enough to play around with the new operating system yet, but I already had an idea that it could be a problematic release, when this &lt;a href=&quot;http://www.youtube.com/watch?v=v4boTbv9_nU&quot;&gt;Youtube video&lt;/a&gt; did the rounds earlier in the year. It is four minutes of painful viewing for anybody interested in usability.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have great hopes for Windows 9 on mobile and tablets. Just as Windows 7 was “Vista Done Right” it’s quite likely that the touchscreen version of Windows 9 will be “Windows 8 Done Right.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many things to dissect from Nielsen’s article, and I will definitely be looking more into his comments on flat design, especially looking at buttons (I’m all about buttons now!), but if this article wasn’t bad news enough for Microsoft, then they won’t like this report on &lt;a href=&quot;http://mashable.com/2012/11/19/windows-8-falling-short/&quot;&gt;sales being poor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And finally, if you’re going to get a celebrity to tweet about your new product, then it might be better endorsed if it actually came from the device!&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/111912_oprah.png&quot; alt=&quot;Oprah Winfrey singing the praises on Windows 8... but from an iPad!&quot; /&gt;
+	&lt;figcaption&gt;Oh Oprah!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/windows-8-missing-the-mark&quot;&gt;Windows 8. Missing the mark?&lt;/a&gt; was originally published by Dean Birkett at &lt;a href=&quot;&quot;&gt;Dean Birkett&lt;/a&gt; on November 19, 2012.&lt;/p&gt;</content>
+</entry>
+
+</feed>
